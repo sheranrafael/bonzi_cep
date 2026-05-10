@@ -1,4 +1,4 @@
-# BonziCep 📍
+# BonziCep
 
 Gem Ruby para gerar, validar e consultar Códigos de Endereçamento Postal brasileiros (CEP / zip code) com informações de estado e região.
 
@@ -6,13 +6,13 @@ Gem Ruby para gerar, validar e consultar Códigos de Endereçamento Postal brasi
 
 ## Características 
 
-- ✅Zero dependências - Funciona com Ruby puro
+- Zero dependências - Funciona com Ruby puro
 
-- ✅Suporte a Ruby 3.1+ - Compatível com versões modernas
+- Suporte a Ruby 3.1+ - Compatível com versões modernas
 
-- ✅Interface simples - Fácil de usar tanto em código quanto via CLI
+- Interface simples - Fácil de usar tanto em código quanto via CLI
 
-- ✅Dados embutidos - Não requer banco de dados ou API externa
+- Dados embutidos - Não requer banco de dados ou API externa
 
 ---
 
